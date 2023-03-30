@@ -1,1 +1,2 @@
-The data sourse is Salaries.csv for this code.
+This code gives example of Pandas Profiling.
+The data file is Salaries.csv to run the code.
